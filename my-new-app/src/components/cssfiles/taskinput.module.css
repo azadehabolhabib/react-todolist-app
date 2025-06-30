@@ -1,0 +1,23 @@
+.Form{
+      grid-area: 1/1/2/2;
+  height: 10rem;
+  display: flex;
+  background-color: rgb(175, 115, 134);
+  border-radius: 10px;
+  font-size: 2.5rem;
+  padding-left: 3rem;
+  margin: 11rem 0 8rem 8rem;
+
+}
+
+.Submit{
+      justify-self: center;
+  font-size: 4rem;
+
+}
+
+.Input{
+      padding-left: 5rem;
+  width: 55rem;
+
+}
